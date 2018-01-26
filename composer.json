@@ -1,0 +1,19 @@
+{
+    "description": "EEL Helper to use the NodeSearchService",
+    "type": "neos-package",
+    "name": "ttree/eel-nodesearchservice",
+    "license": "MIT",
+    "require": {
+        "neos/neos": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ttree\\Eel\\NodeSearchService\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Ttree.Eel.NodeSearchService"
+        }
+    }
+}

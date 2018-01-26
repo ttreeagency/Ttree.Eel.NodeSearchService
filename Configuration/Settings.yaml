@@ -1,0 +1,4 @@
+Neos:
+  Fusion:
+    defaultContext:
+      NodeSearchService: 'Ttree\Eel\NodeSearchService\NodeSearchServiceHelper'
